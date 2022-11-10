@@ -16,7 +16,7 @@
 
 ## Future Skills
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,nodejs,react,js,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,css,postgres,nodejs,react,js,angular)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiyazbr&show_icons=true&locale=en&layout=compact" alt="samiyazbr" /></p>
 
