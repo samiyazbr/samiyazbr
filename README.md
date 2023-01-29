@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [minishell](https://github.com/samiyazbr/my_minishell), [philosophers](https://github.com/samiyazbr/philosopher)
+- 🔭 I’m currently working on [minishell](https://github.com/samiyazbr/my_minishell)
 
 - 📫 How to reach me **szubair@student.42abudhabi.ae**
 ## My Skills
