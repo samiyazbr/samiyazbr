@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samiya Zubair</h1>
-<h3 align="center">Software development Student at 42 Abudhabi</h3>
+<h4 align="center">I am a software developer with a focus on C programming language. With eight successful projects under my belt, I have honed my skills and developed a keen eye for detail. Currently, I am working on a project called Minishell, which is my own custom shell. My passion for coding drives me to constantly improve and stay up-to-date with the latest industry trends. I am always seeking new challenges and opportunities to learn and grow as a developer</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiyazbr&label=Profile%20views&color=0e75b6&style=flat" alt="samiyazbr" /> </p>
 
