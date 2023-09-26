@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Cpp_module05](https://github.com/samiyazbr/cpp_module04), and [Cub3D](https://github.com/samiyazbr/Cub3D)
+- 🔭 I’m currently working on [Cpp_module05](https://github.com/samiyazbr/cpp_module05), and [Cub3D](https://github.com/samiyazbr/Cub3D)
 
 - 📫 How to reach me **szubair@student.42abudhabi.ae**
 ## My Skills
