@@ -12,7 +12,7 @@
 - 📫 How to reach me **szubair@student.42abudhabi.ae**
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vim,vscode,stackoverflow,docker,linkedin,html,github,git,figma,discord,python,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vim,vscode,stackoverflow,docker,linkedin,html,github,git,figma,discord,python,sqlite3,)](https://skillicons.dev)
 
 ## Currently learning
 
