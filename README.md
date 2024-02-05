@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Inception](https://github.com/samiyazbr/inception)
 
-- 📫 How to reach me **szubair@student.42abudhabi.ae**
+- 📫 How to reach me **samiyazubair.official@gmail.com**
 ## My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vim,vscode,stackoverflow,docker,linkedin,html,github,git,figma,discord,python,sqlite,wordpress,)](https://skillicons.dev)
