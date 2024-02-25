@@ -16,7 +16,7 @@
 
 ## Currently learning
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,css,azure,postgres,nodejs,react,js,angular,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,css,azure,postgres,nodejs,react,js,angular,express,unity,godot,)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiyazbr&show_icons=true&locale=en&layout=compact" alt="samiyazbr" /></p>
 
