@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samiya Zubair</h1>
-<h4 align="center">I am a professional software developer with expertise in multiple programming languages. With twenty-two successful projects under my belt, I have honed my skills and developed a keen eye for detail. Currently, I am working on a project called ft_irc, where I am carefully creating a irc server using c++. My passion for coding drives me to constantly improve and stay up-to-date with the latest industry trends. I am always seeking new challenges and opportunities to learn and grow as a developer</h4>
+<h4 align="center">I am a professional software developer with expertise in multiple programming languages. With twenty-two successful projects under my belt, I have honed my skills and developed a keen eye for detail. Currently, I am working on a project called ft_irc, where I am carefully creating an IRC server using C++. My passion for coding drives me to constantly improve and stay up-to-date with the latest industry trends. I am always seeking new challenges and opportunities to learn and grow as a developer</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiyazbr&label=Profile%20views&color=0e75b6&style=flat" alt="samiyazbr" /> </p>
 
@@ -12,7 +12,7 @@
 - 📫 How to reach me **samiyazubair.official@gmail.com**
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vim,vscode,stackoverflow,docker,linkedin,html,github,git,figma,discord,python,sqlite,wordpress,css,flask,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vim,vscode,stackoverflow,docker,linkedin,html,javascript,github,git,figma,discord,python,sqlite,wordpress,css,flask,)](https://skillicons.dev)
 
 ## Currently learning
 
