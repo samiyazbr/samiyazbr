@@ -12,7 +12,7 @@
 - 📫 How to reach me **samiyazubair.official@gmail.com**
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vim,vscode,stackoverflow,docker,linkedin,html,javascript,github,git,figma,discord,python,sqlite,wordpress,css,flask,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vim,vscode,stackoverflow,docker,linkedin,html,javascript,github,git,figma,discord,python,sqlite,wordpress,css,flask,blender,)](https://skillicons.dev)
 
 ## Currently learning
 
