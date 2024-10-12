@@ -12,6 +12,7 @@
 - 🔭 I’m currently working on [Inception](https://github.com/samiyazbr/inception)
 
 - 📫 How to reach me **samiyazubair.official@gmail.com**
+- [Linkedin](https://www.linkedin.com/in/samiya-zubair)
 ## My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vim,vscode,stackoverflow,docker,html,javascript,github,git,figma,python,sqlite,wordpress,css,flask,blender,react,godot,threejs)](https://skillicons.dev)
