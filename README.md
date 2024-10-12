@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samiya Zubair</h1>
-<h4 align="center">I am a professional software developer with expertise in multiple programming languages. With twenty-two successful projects under my belt, I have honed my skills and developed a keen eye for detail. My passion for coding drives me to constantly improve and stay up-to-date with the latest industry trends. I am always seeking new challenges and opportunities to learn and grow as a developer</h4>
+<h4 align="center"> I am a passionate software developer with expertise in multiple programming languages and a track record of 22 successful projects. I love tackling complex challenges and delivering high-quality, efficient solutions.
+
+🌐 I’m currently exploring Web3 technologies and staying up-to-date with the latest trends in the industry. I'm always open to new opportunities for collaboration and learning, so feel free to connect!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiyazbr&label=Profile%20views&color=0e75b6&style=flat" alt="samiyazbr" /> </p>
 
