@@ -9,8 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Inception](https://github.com/samiyazbr/inception)
-
 - 📫 How to reach me **samiyazubair.official@gmail.com**
 - [Linkedin Profile](https://www.linkedin.com/in/samiya-zubair)
 ## My Skills
